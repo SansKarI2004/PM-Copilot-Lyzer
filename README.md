@@ -1,8 +1,3 @@
-Here is a **clean, professional, GitHub-ready README.md** for your Lyzr project.
-It’s crisp, structured, and designed to impress recruiters, PMs, and engineers.
-
----
-
 # **Lyzr — AI Command Center for Product Managers**
 
 > **Stop drowning in noise. Start managing with clarity.**
